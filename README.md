@@ -10,7 +10,7 @@ Smart Selfie using OpenCV is an Interface which allows us to click selfies witho
 # _**Algorithm Description:**_
 So, here we are using an OpenCV’s face, eye and smile cascade files to identify facial expressions of a person in the frame and then whenever it detects any smile or blink of an eye, it will capture the image. These cascading classifiers are like models which are trained on several positive similar images. So, in order to detect facial expression or eye of a person we use another cascade. detect Multiscale () function to detect the faces and draw a rectangle box over the face.
 
-![OpenCV](https://www.researchgate.net/profile/Emmanuel-Bello/publication/299705816/figure/fig3/AS:667623872290831@1536185343496/general-structure-of-OpenCV-library.png)
+![OpenCV](https://user-images.githubusercontent.com/43352032/52209789-3a516c00-289a-11e9-8a7c-489ef5456c57.png)
 
 # _**Reference**_
 
